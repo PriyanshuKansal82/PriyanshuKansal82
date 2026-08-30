@@ -23,8 +23,6 @@ React · Node.js · Express · MongoDB · Socket.io · Zustand
 
 - **500+ DSA problems** solved
 - **NPTEL Elite + Gold — Top 1%**
-- **CodeChef 2★** | Highest Rating: 1537
-- **Codeforces Pupil** | Highest Rating: 1208
 
 ### 📫 Connect
 
