@@ -28,4 +28,4 @@ React · Node.js · Express · MongoDB · Socket.io · Zustand
 
 ### 📫 Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/PriyanshuKansal82)
+[LinkedIn](https://www.linkedin.com/in/priyanshu-kansal-36827a28a/) · [GitHub](https://github.com/PriyanshuKansal82)
