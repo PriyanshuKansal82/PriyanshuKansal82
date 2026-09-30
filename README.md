@@ -5,14 +5,6 @@
 
 I build full-stack applications with a focus on **scalable backend systems, real-time applications, and AI-powered products**.
 
-### 🚀 Featured Projects
-
-**[AI-Powered Resume Builder](https://github.com/PriyanshuKansal82/Resume-Builder-App)**  
-React · Node.js · Express · MongoDB · Gemini AI · Redux Toolkit
-
-**[Real-Time Chat App](https://github.com/PriyanshuKansal82/Chat-App)**  
-React · Node.js · Express · MongoDB · Socket.io · Zustand
-
 ### 🛠️ Skills
 
 **Languages:** C, C++, JavaScript  
